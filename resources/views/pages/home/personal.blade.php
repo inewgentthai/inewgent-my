@@ -51,14 +51,14 @@
                                         </li>
                                     </ul>
                                 </li>
-                                <li>
+                                <!-- <li>
                                     <ul class="address-text">
                                         <li><b> </b></li>
                                         <li>
                                             <a target="_blank" href="http://www.inewgen.com">www.inewgen.com</a>
                                         </li>
                                     </ul>
-                                </li>
+                                </li> -->
                             </ul>
                         </div>
                         <div class="col-md-5 header-left">
