@@ -28,7 +28,7 @@
                         <p>
                             {{ array_get($pbox, 'description', '') }}
                         </p>
-                        <a href="#" data-toggle="modal" data-target="#modal_{{ array_get($pbox, 'id', '') }}" class="read hvr-shutter-in-horizontal">Read More</a>
+                        <a target="_blank" href="{{ array_get($pbox, 'url', '') }}" class="read hvr-shutter-in-horizontal">Read More</a>
                     </div>
                     <div class="clearfix"></div>
                 </div>
@@ -45,7 +45,7 @@
                         <p>
                             {{ array_get($pbox, 'description', '') }}
                         </p>
-                        <a href="#" data-toggle="modal" data-target="#modal_{{ array_get($pbox, 'id', '') }}" class="read hvr-shutter-in-horizontal">Read More</a>
+                        <a target="_blank" href="{{ array_get($pbox, 'url', '') }}" class="read hvr-shutter-in-horizontal">Read More</a>
                     </div>
                     <div class="col-md-6 news-img two">
                         <a href="#" data-toggle="modal" data-target="#modal_{{ array_get($pbox, 'id', '') }}">

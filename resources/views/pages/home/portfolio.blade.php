@@ -131,6 +131,18 @@
             'title'       => 'Publisher Management Software Design 2',
             'url'         => 'https://pbms.2ebook.com',
             'description' => 'pbms.2ebook.com',
+        ],
+        [
+            'id'          => '2ebook_reader',
+            'title'       => '2ebook Reader Software',
+            'url'         => 'http://store.2ebook.com/',
+            'description' => 'Ebook reader application',
+        ],
+        [
+            'id'          => '2ebook_writer',
+            'title'       => '2ebook Writter Software',
+            'url'         => 'http://store.2ebook.com/',
+            'description' => 'Ebook writer application',
         ]
     ];
 ?>      
