@@ -285,6 +285,7 @@ background-position: 3px -94px;
 }
 .news-img img,.news-img.two  img{
     width: 100%;
+    max-height: 370px;
 }
 .news-img.two {
     float:right;
@@ -370,7 +371,8 @@ h4.tittle  {
     font-weight: bold;
 }
 .modal-dialog.about {
-    width: 757px;
+    /*width: 757px;*/
+    width: 75%;
     margin:3.5em auto 0;
 }
 .modal-content.about {
