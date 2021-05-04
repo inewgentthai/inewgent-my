@@ -27,4 +27,3 @@ services:
 networks:
   network-inewgent:
     external: true
-        
