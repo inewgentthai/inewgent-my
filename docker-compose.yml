@@ -2,7 +2,7 @@ version: '2' # version ของ docker compose
 services:
 
    # Php สำหรับการสร้าง php container
-  php:
+  inewgent_my_php:
     build: ./docker-php # ชี้ไป path ของ Dockerfile เพื่อที่จะใช้ในการสร้าง container
     working_dir: /var/www/laravel # directory ที่จะเป็นจัดที่เราทำงาน
     volumes:
@@ -18,7 +18,7 @@ services:
     build: ./docker-nginx
     working_dir: /var/www/laravel # directory ที่จะเป็นจัดที่เราทำงาน
     volumes_from:
-      - php # คือการ volume จาก php container นะครับ
+      - inewgent_my_php # คือการ volume จาก php container นะครับ
     ports:
       - 5005:80 # port sที่เราต้องการจะใช้ระหว่าง {host}:{container} นะครับ
     networks:
