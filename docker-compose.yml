@@ -20,7 +20,7 @@ services:
     volumes_from:
       - php # คือการ volume จาก php container นะครับ
     ports:
-      - 5004:80 # port sที่เราต้องการจะใช้ระหว่าง {host}:{container} นะครับ
+      - 5005:80 # port sที่เราต้องการจะใช้ระหว่าง {host}:{container} นะครับ
     networks:
       network-inewgent:
 
