@@ -1,6 +1,12 @@
 <?php
     $pboxs = [
         [
+            'id'          => 'horeca_admin',
+            'title'       => 'Merchant solutions Admin system',
+            'url'         => 'http://cms.eggsmartpos.com',
+            'description' => 'cms.eggsmartpos.com',
+        ],
+        [
             'id'          => 'portal2_oneplanets',
             'title'       => 'eProcurement solutions Portal system',
             'url'         => 'http://portal.oneplanets.com',
