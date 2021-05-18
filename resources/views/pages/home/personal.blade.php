@@ -47,7 +47,7 @@
                                     <ul class="address-text">
                                         <li><b>WEBSITE </b></li>
                                         <li>
-                                            <a target="_blank" href="http://www.inewgen.com">www.inewgen.com</a>
+                                            <a target="_blank" href="http://www.inewgent.com">www.inewgent.com</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -55,7 +55,7 @@
                                     <ul class="address-text">
                                         <li><b> </b></li>
                                         <li>
-                                            <a target="_blank" href="http://www.inewgen.com">www.inewgen.com</a>
+                                            <a target="_blank" href="http://www.inewgent.com">www.inewgent.com</a>
                                         </li>
                                     </ul>
                                 </li> -->
