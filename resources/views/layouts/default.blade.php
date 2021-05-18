@@ -7,7 +7,7 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-        <title>inewGen.com</title>
+        <title>inewGent.com</title>
         <link href="{{ env('APP_URL') }}/assets/css/bootstrap.css" rel='stylesheet' type='text/css' />
         <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
         <script src="{{ env('APP_URL') }}/assets/js/jquery.min.js"></script>
