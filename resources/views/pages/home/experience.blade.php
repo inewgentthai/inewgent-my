@@ -19,7 +19,7 @@
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h4 class="timeline-title">
-                                    <img src="{{ env('APP_URL') }}/assets/images/ascend_logo.png" alt=""><br>
+                                    <img src="{{ env('APP_URL') }}/assets/images/ascend_logo.png" alt="" style="width: 80px;"><br><br>
                                     Ascend Group Company Limited</h4>
                                 </div>
                                 <div class="timeline-body">
