@@ -1,6 +1,12 @@
 <?php
     $pboxs = [
         [
+            'id'          => 'egg_pos_subscription',
+            'title'       => 'Package Subscription system',
+            'url'         => 'http://eggdigital.com/pos-pricing',
+            'description' => 'eggdigital.com/pos-pricing',
+        ],
+        [
             'id'          => 'horeca_admin',
             'title'       => 'Merchant solutions Admin system',
             'url'         => 'http://cms.eggsmartpos.com',
