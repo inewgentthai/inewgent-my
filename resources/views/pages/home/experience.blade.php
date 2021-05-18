@@ -19,17 +19,12 @@
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h4 class="timeline-title">
-                                    <img src="{{ env('APP_URL') }}/assets/images/true_logo.png" alt=""><br>
-                                    True Corporation Public Company Limited</h4>
+                                    <img src="{{ env('APP_URL') }}/assets/images/ascend_logo.png" alt=""><br>
+                                    Ascend Group Company Limited</h4>
                                 </div>
                                 <div class="timeline-body">
                                     <p>
-                                        True Corporation Plc is
-                                        Thailand’s convergence lifestyle leader, offering an
-                                        unrivalled selection of integrated communications
-                                        services and solutions. True’s business operations
-                                        encompass five areas as TrueOnline TrueMove
-                                        TrueVisions TrueMoney and TrueLife.
+                                    With our position as the regional online business in Southeast Asia, our goal is to be the leader in digital services and platform for customers and businesses. Through our affiliated businesses and operating brands, we build eco-systems that contributes to greater value for the betterment of our customers and businesses.
                                     </p>
                                 </div>
                             </div>
