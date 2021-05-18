@@ -1,6 +1,12 @@
 <?php
     $pboxs = [
         [
+            'id'          => 'online_ordering',
+            'title'       => 'Online Ordering system',
+            'url'         => 'https://online.eggsmartpos.com',
+            'description' => 'online.eggsmartpos.com',
+        ],
+        [
             'id'          => 'virtual_pos_online',
             'title'       => 'Virtual POS Online system',
             'url'         => 'https://web.eggsmartpos.com',
