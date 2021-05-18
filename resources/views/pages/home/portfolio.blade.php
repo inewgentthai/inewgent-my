@@ -1,6 +1,12 @@
 <?php
     $pboxs = [
         [
+            'id'          => 'egg_pos_on_mobile',
+            'title'       => 'EGG POS On Mobile',
+            'url'         => 'http://eggdigital.com/egg-pos',
+            'description' => 'eggdigital.com/egg-pos/',
+        ],
+        [
             'id'          => 'egg_pos_app',
             'title'       => 'EGG POS Application',
             'url'         => 'http://eggdigital.com/egg-pos',
