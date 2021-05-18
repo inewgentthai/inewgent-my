@@ -1,6 +1,12 @@
 <?php
     $pboxs = [
         [
+            'id'          => 'egg_pos_app',
+            'title'       => 'EGG POS Application',
+            'url'         => 'http://eggdigital.com/egg-pos',
+            'description' => 'eggdigital.com/egg-pos/',
+        ],
+        [
             'id'          => 'online_ordering',
             'title'       => 'Online Ordering system',
             'url'         => 'https://online.eggsmartpos.com',
