@@ -2,7 +2,7 @@
             <div class="container">
                 <div class="service-head text-center">
                     <h4>WHAT I DID</h4>
-                    <h3>MY <span>EXPERIENCE</span></h3>
+                    <h3>MY <span>EXPERIENCEs</span></h3>
                     <span class="border one"></span>
                 </div>
                 <div class="time-main w3l-agile">
