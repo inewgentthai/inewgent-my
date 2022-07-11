@@ -10,7 +10,7 @@
                         <ul class="year">
                             <li>2021 - Present</li>
                             <li>2012 - 2021</li>
-                            <li style="margin-top: 250px;">2010 - 2012</li>
+                            <li>2010 - 2012</li>
                             <div class="clearfix"></div>
                         </ul>
                     </div>
