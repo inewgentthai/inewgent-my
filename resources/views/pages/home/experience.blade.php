@@ -9,8 +9,8 @@
                     <div class="col-md-6 year-info">
                         <ul class="year">
                             <li>2021 - Present</li>
-                            <li>2012 - 2021</li>
-                            <lis tyle="margin-top: 250px;">2010 - 2012</li>
+                            <li style="margin-top: 250px;">2012 - 2021</li>
+                            <li style="margin-top: 250px;">2010 - 2012</li>
                             <div class="clearfix"></div>
                         </ul>
                     </div>
