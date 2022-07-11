@@ -2,7 +2,7 @@
             <div class="container">
                 <div class="service-head text-center">
                     <h4>WHAT I DID</h4>
-                    <h3>MY <span>EXPERIENCEs</span></h3>
+                    <h3>MY <span>EXPERIENCE</span></h3>
                     <span class="border one"></span>
                 </div>
                 <div class="time-main w3l-agile">
@@ -14,6 +14,21 @@
                         </ul>
                     </div>
                     <ul class="col-md-6 timeline">
+                        <li>
+                            <div class="timeline-badge info"><i class="glyphicon glyphicon-briefcase"></i></div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4 class="timeline-title">
+                                    <img src="{{ env('APP_URL') }}/assets/images/ascend_logo.png" alt="" style="width: 80px;"><br><br>
+                                    BECi Corporation Limited</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p>
+                                    BECI Corporation is the official digital media, services, and content solutions of BEC group (Channel 3). We promise to connect our customers to digital marketers with our creative expertise, Ch3 Stars and contents. Our teams are the combination of new digital talents and experienced professionals from digital media and technology. And we welcome talents to join the digital challenge and experiences.
+                                    </p>
+                                </div>
+                            </div>
+                        </li>
                         <li>
                             <div class="timeline-badge info"><i class="glyphicon glyphicon-briefcase"></i></div>
                             <div class="timeline-panel">
