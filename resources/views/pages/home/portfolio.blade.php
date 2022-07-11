@@ -1,6 +1,12 @@
 <?php
     $pboxs = [
         [
+            'id'          => '3plus_web',
+            'title'       => '3Plus On Website',
+            'url'         => 'https://ch3plus.com',
+            'description' => 'ch3plus.com',
+        ],
+        [
             'id'          => 'egg_pos_on_mobile',
             'title'       => 'EGG POS On Mobile',
             'url'         => 'http://eggdigital.com/egg-pos',
