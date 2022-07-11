@@ -7,6 +7,12 @@
             'description' => 'ch3plus.com',
         ],
         [
+            'id'          => '3plus_application',
+            'title'       => '3Plus Application',
+            'url'         => 'https://ch3plus.com',
+            'description' => 'ch3plus/application',
+        ],
+        [
             'id'          => 'egg_pos_on_mobile',
             'title'       => 'EGG POS On Mobile',
             'url'         => 'http://eggdigital.com/egg-pos',
